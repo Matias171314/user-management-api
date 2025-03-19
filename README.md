@@ -9,7 +9,7 @@ API CRUD de Gestión de Usuarios con Flask y MySQL. Implementa autenticación JW
 user_management_api/
 │
 ├── app/
-│   ├── __init__.py
+│   ├── app.py
 │   ├── models.py
 │   ├── routes.py
 │   ├── auth.py
